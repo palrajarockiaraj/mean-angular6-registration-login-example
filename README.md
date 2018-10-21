@@ -1,4 +1,4 @@
-# Running the MEAN with Angular 2/5 User Registration & Login Example Locally
+# Running the MEAN with Angular 6 User Registration & Login Example Locally
 
 IMPORTANT: To run MEAN stack applications locally you need NodeJS installed and MongoDB running.
 
