@@ -10,16 +10,11 @@ import { ErrorInterceptorServiceProvider } from './_helpers/error-interceptor.se
 import { AuthGuard } from './_guards/auth.guard';
 import { AlertComponent } from './alert/alert.component';
 import { HomeComponent } from './home/home.component';
-import { LoginComponent } from './login/login.component';
-import { RegisterComponent } from './register/register.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    AlertComponent,
-    HomeComponent,
-    LoginComponent,
-    RegisterComponent
+    AlertComponent
   ],
   imports: [
     BrowserModule,
